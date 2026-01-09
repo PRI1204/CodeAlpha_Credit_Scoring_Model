@@ -5,7 +5,7 @@ A machine learning model that predicts whether a borrower can repay a bank loan.
 ## 📌 Project Overview
 This project develops a Credit Scoring Model to assess a person’s financial reliability using their financial history. It helps predict whether a loan applicant is likely to repay the loan or default, enabling banks to evaluate financial risk.
 
-## Objective
+## 🎯 Objective
 The aim is to build a machine learning model to predict loan defaults, helping banks make safer, data-driven lending decisions by analyzing customer financial data and evaluating model performance.
 
 ## 📂 Dataset
